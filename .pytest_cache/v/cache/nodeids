@@ -1,3 +1,8 @@
 [
-  "tests/test_app.py::test_example[chromium]"
+  "tests/test_app.py::test_blank_field[chromium]",
+  "tests/test_app.py::test_capitlisation_works[chromium]",
+  "tests/test_app.py::test_example[chromium]",
+  "tests/test_app.py::test_link_to_user_details[chromium]",
+  "tests/test_app.py::test_max_users[chromium]",
+  "tests/test_app.py::test_user_create[chromium]"
 ]
